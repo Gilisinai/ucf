@@ -4,7 +4,7 @@
 
 ?>
 
-<div class='background' style='background-image: -webkit-image-set(url("<?php echo the_field('desktop-bg') ?>") 1x, url("<?php echo the_field('mobile-bg') ?>") 2x );'>
+<div class='background' style='background-image: -webkit-image-set(url("<?php echo the_field('desktop-bg') ?>") 2x, url("<?php echo the_field('mobile-bg') ?>") 3x );'>
     <div class='container'>
         <div class='logo-wrapper mb-md'>
             <img src='<?php echo the_field('logo'); ?>'>
